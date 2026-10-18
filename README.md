@@ -234,5 +234,3 @@ Released as open source under the MIT License.
 ## 👨‍💻 Author
 
 **Aayush** — [GitHub](https://github.com/codeitwithaayush)
-
-Synapse started from the open-source project [Memoria V2](https://github.com/Aaryan-336/memoria-v2-clean) by Aaryan Khanna, which I adapted and rebranded.
