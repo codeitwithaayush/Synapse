@@ -213,10 +213,6 @@ Synapse stores its data in a relational PostgreSQL database hosted on Supabase. 
 
 ---
 
-## 📸 Screenshots
-
-*Screenshots and a UI walkthrough are on the way.*
-
 ---
 
 ## 🤝 Contributing
@@ -225,9 +221,6 @@ Contributions are welcome. Before opening a pull request, read [docs/rules.md](d
 
 ---
 
-## 📄 License
-
-Released as open source under the MIT License.
 
 ---
 
